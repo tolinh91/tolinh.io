@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local editorial sources are not part of the public site.
+BUILD_GUIDE.md
+CONTENT_TODO.md
+*.docx
+.DS_Store
+__pycache__/
